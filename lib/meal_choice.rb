@@ -1,4 +1,4 @@
-def meal_choice('carrots', 'string beans', 'lentils')
+def meal_choice(veg1, veg2, protein = 'tofu'
   puts veg 1 
   puts veg 2 
   puts protein 
